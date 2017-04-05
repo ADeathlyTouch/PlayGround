@@ -60,10 +60,6 @@ public class PlayGround {
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event) {
-        //NetworkRegistry.INSTANCE.registerGuiHandler(PlayGround.instance, new GuiHandler());
-
-        //Crafting
-
         proxy.init(event);
     }
 }
