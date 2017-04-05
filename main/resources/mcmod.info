@@ -1,0 +1,16 @@
+[
+{
+  "modid": "playground",
+  "name": "Play Ground",
+  "description": "Play with mah code Damnit!.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["A Deathly Touch"],
+  "credits": "A Deathly Touch",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

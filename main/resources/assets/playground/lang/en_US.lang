@@ -1,0 +1,8 @@
+#GUI
+itemGroup.playtab=PlayGround
+#Items
+item.compressed_enderpearl.name=Compressed Ender Pearl
+item.tavionlogo.name=Team Avion
+#Blocks
+tile.blackblock.name=Black Block
+tile.blacklit.name=Black Lit
