@@ -50,7 +50,7 @@ public class ModBlocks {
 
     private static void registerRender(Block block) {
         Item item = Item.getItemFromBlock(block);
-        Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(item, 0, new ModelResourceLocation(PlayGround.MODID + ":" + item.getUnlocalizedName().substring(5), "inventory"));
+        Minecraft.getMinecraft().getRenderItem().getItemModelMesher().register(item, 0, new ModelResourceLocation(PlayGround.MODID + ":" + item.getRegistryName(), "inventory"));
     }
 
 }
